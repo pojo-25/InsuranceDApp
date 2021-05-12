@@ -8,7 +8,7 @@ Project uses React Hooks and Context for state management and Bootstrap for styl
 
 ## Instructions
 * Node.js must be installed in your system.
-* After cloning the project with `$ git clone https://github.com/Zetsuboii/reach-react-template.git; cd reach-react-template`
+* After cloning the project with `$ https://github.com/pojo-25/InsuranceDApp.git; cd reach-react-template`
 * use `$ npm install package.json` to install dependencies
 * You need a copy of reach to get the devnet running. If you don't have one already
 * `$ curl https://raw.githubusercontent.com/reach-sh/reach-lang/master/reach -o reach ; chmod +x reach`
