@@ -1,10 +1,9 @@
-# Reach React Template
+# Insurance Dapp
+In this project, subscriber periodically pays some amount of money to insurance company. Subscriber sometimes can arbitrarily request money from the company. When the company approves this request, the amount requested by the subscriber is transferred to the subscriber's account.
 
-This repository has many tools that you can use in your Reach projects, such as connect wallet button, faucet modals and a simple framework to build your own websites.
+You can run this app according to about page properly. 
 
-Or you can just tweak the files in the participant folder and the routes in App.js to configure the already working site for your needs.
-
-Project uses React Hooks and Context for state management and Bootstrap for styling. 
+This app's template code is retrieved from https://github.com/Zetsuboii/reach-react-template. Executes following instructions for running this app. 
 
 ## Instructions
 * Node.js must be installed in your system.
