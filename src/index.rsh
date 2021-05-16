@@ -1,22 +1,6 @@
 'reach 0.1';
 'use strict';
 
-/*
-  This is an abstraction of a multi-signature wallet.
-
-  Once Reach has support for dynamic sets of participants and
-  participant-polymorphic abstractions it will be easier to write a
-  real multi-signature wallet, but for now, here is a demonstration of
-  how something this would work.
-
-  The insuranceCompany deposits money into the account at the beginning and the
-  subscriber makes requests to extract the money.
-
-  In this way, the subscriber is like one of the peers in the wallet and
-  the insuranceCompany is like the set of all the other peers who determine if
-  the transaction goes through.
-
-*/
 
 export const main =
   Reach.App(
